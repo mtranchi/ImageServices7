@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServicesBlazor", "ImageServicesBlazor\ImageServicesBlazor.csproj", "{1A54CD45-07CD-4334-B70C-B52B6F34794D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServicesShared", "ImageServicesShared\ImageServicesShared.csproj", "{96E738C3-1BF4-4330-8A1F-1AED9095A670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A54CD45-07CD-4334-B70C-B52B6F34794D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A54CD45-07CD-4334-B70C-B52B6F34794D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A54CD45-07CD-4334-B70C-B52B6F34794D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A54CD45-07CD-4334-B70C-B52B6F34794D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E738C3-1BF4-4330-8A1F-1AED9095A670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E738C3-1BF4-4330-8A1F-1AED9095A670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E738C3-1BF4-4330-8A1F-1AED9095A670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E738C3-1BF4-4330-8A1F-1AED9095A670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C0BC25-530E-46E9-82B2-F2929CE496E1}
+	EndGlobalSection
+EndGlobal
